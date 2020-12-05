@@ -1,0 +1,22 @@
+{
+    "example_message_id_1": {
+        "sent_from": "johndoe",
+        "sent_to": "waldo",
+        "msg": "hey, where are you?"
+    },
+    "example_message_id_2": {
+        "sent_from": "waldo",
+        "sent_to": "johndoe",
+        "msg": "at the store"
+    },
+    "example_message_id_3": {
+        "sent_from": "johndoe",
+        "sent_to": "waldo",
+        "msg": "can you pick up more sugar and bottled water?"
+    },
+    "example_message_id_4": {
+        "sent_from": "agentj",
+        "sent_to": "agentk",
+        "msg": "Got him--he's at the store."
+    }
+}

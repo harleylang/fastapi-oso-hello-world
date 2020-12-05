@@ -1,0 +1,22 @@
+{
+    "johndoe": {
+        "username": "johndoe",
+        "role": "user",
+        "hash": "$2b$12$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeG6Lruj3vjPGga31lW"
+    },
+    "waldo": {
+        "username": "waldo",
+        "role": "alien",
+        "hash": "$2b$12$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeG6Lruj3vjPGga31lW"
+    },
+    "agentk": {
+        "username": "agentk",
+        "role": "mib",
+        "hash": "$2b$12$HAXzpGr3VDjuEme6V0Z6ueKEoEnh5YdM2X3DHWBBJZU6NbGjZQHEO"
+    },
+    "agentj": {
+        "username": "agentj",
+        "role": "mib",
+        "hash": "$2b$12$HAXzpGr3VDjuEme6V0Z6ueKEoEnh5YdM2X3DHWBBJZU6NbGjZQHEO"
+    }
+}
